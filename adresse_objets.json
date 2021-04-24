@@ -1,0 +1,104 @@
+[
+    {
+        "nom": "AMD Ryzen 3 3200G (3.6 GHz)",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in20008312.html"
+        }
+    },
+    {
+        "nom": "AMD Ryzen 5 3600 (3.6 GHz)",
+        "lien": {
+            "lien_top_achat":"https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in11016970.html"
+        }
+    },
+    {
+        "nom": "AMD Ryzen 7 3700X (3.6 GHz)",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in11016968.html"
+        }
+    },
+    {
+        "nom": "Intel i3-10100F (3.6 GHz)",
+        "lien": {
+            "lien_top_achat":"https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in20005971.html"
+        }
+    },
+    {
+        "nom": "Intel Core i3-10105 (3.7 GHz)",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in20008177.html"
+        }
+    },
+    {
+        "nom": "Intel Core i5-9400F (2.9 GHz)",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in10117401.html"
+        }
+    },
+    {
+        "nom": "Intel Core i5-11600K (3.9 GHz)",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in20007924.html"
+        }
+    },
+    {
+        "nom": "Intel Core i7-11700K (3.6 GHz)",
+        "lien": {
+            "lien_top_achat":  "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in20007922.html"
+        }
+    },
+    {
+        "nom": "Gigabyte GeForce GTX 1050 Ti",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in10102453.html"
+        }
+    },
+    {
+        "nom": "Asus GeForce GTX 1050 Ti",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20007580.html"
+        }
+    },
+    {
+        "nom": "Zotac Gaming GeForce GTX 1650",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in10118797.html"
+        }
+    },
+    {
+        "nom": "MSI GeForce GTX 1660 Ti",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in10117299.html"
+        }
+    },
+    {
+        "nom": "Asus GeForce RTX 2060 DUAL 6G",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006894.html"
+        }
+    },
+    {
+        "nom": "Asus GeForce RTX 3060",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20007446.html"
+        }
+    },
+    {
+        "nom": "Gigabyte Radeon RX 580",
+        "lien": {
+            "lien_top_achat":  "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in10104218.html"
+        }
+    },
+    {
+        "nom": "Sapphire Radeon RX 580 PULSE (8 Go)",
+        "lien": {
+            "lien_top_achat":"https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in10104211.html"
+        }
+    },
+    {
+        "nom": "Radeon RX 5700 XT Taichi X 8G",
+        "lien": {
+            "lien_top_achat": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20001594.html"
+        }
+    }
+]
