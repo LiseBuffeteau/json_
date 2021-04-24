@@ -24,19 +24,23 @@ https://www.amazon.fr/AMD-Ryzen-3200G-Processeur-Bo%C3%AEte/dp/B07STGHZK8/ref=sr
 https://www.cdiscount.com/informatique/processeurs/amd-processeur-ryzen-3-3200g-wraith-stealth-cooler/f-10764-yd3200c5fhbox.html?idOffre=797017295#mpos=0|mp
 
 
+
 Intel Core i3-10105 (3.7 GHz) --> amazon
 https://www.amazon.fr/Intel-i3-10105-3-7GHz-Desktop-Processor/dp/B08V1T4JC1/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Intel+Core+i3-10105+%283.7+GHz%29&qid=1619285389&sr=8-1
---> cdiscount
+
 
 
 Intel Core i5-9400F (2.9 GHz) --> amazon
 https://www.amazon.fr/Intel-i5-9400F-processeur-2-90-n2900-Processeurs/dp/B07MRCGQQ4/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Intel+Core+i5-9400F+%282.9+GHz%29%29&qid=1619285449&sr=8-2
 --> cdiscount
+https://www.cdiscount.com/informatique/processeurs/processeur-intel-core-i5-9400f-2-9-ghz-4-1-ghz/f-10764-int5032037150354.html#mpos=0|cd
+
 
 
 Intel Core i5-11600K (3.9 GHz) --> amazon
 https://www.amazon.fr/Intel-i5-11600K-Processeur-d%C3%A9bloqu%C3%A9-LGA1200/dp/B08X67YZBL/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Intel+Core+i5-11600K+%283.9+GHz%29&qid=1619285506&sr=8-2
-
+--> cdiscount
+https://www.cdiscount.com/informatique/processeurs/intel-processeur-intel-core-i5-11600k-6-coeurs/f-10764-bx8070811600k.html#mpos=0|cd
 
 Intel Core i7-11700K (3.6 GHz) --> amazon
 https://www.amazon.fr/Intel-BX8070811700K-Core-I7-11700K-3-60GHZ/dp/B08TX5KL5T/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Intel+Core+i7-11700K+%283.6+GHz%29&qid=1619285592&sr=8-1
